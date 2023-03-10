@@ -6,9 +6,9 @@ function Backgroundexperiend() {
     <div className="boxm">
       <div className="boxs">
         <div className="pp">
-        <h1 className="hh1">  BACKGROUND EXPERIEND </h1>
+          <h1 className="hh1"> BACKGROUND EXPERIEND </h1>
         </div>
-        
+
         <div className="boxdiv"></div>
         <div>
           <h1> Account Executive </h1>
@@ -28,7 +28,7 @@ function Backgroundexperiend() {
           </li>
         </ul>
         <div>
-        <div className="boxdiv"></div>
+          <div className="boxdiv"></div>
           <h1>Digital Marketing</h1>
         </div>
         <ul className="boxul">
@@ -52,7 +52,7 @@ function Backgroundexperiend() {
           </li>
         </ul>
         <div>
-        <div className="boxdiv"></div>
+          <div className="boxdiv"></div>
           <h1>Business Healthy Drink</h1>
         </div>
         <ul className="boxul">
